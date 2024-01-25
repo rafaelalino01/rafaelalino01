@@ -1,4 +1,6 @@
-- 👋# 💫 About Me: Atualmente eu estou cursando<br>engenharia da computação <br>e tecnólogo em cloud computing.<br>Trabalho numa montadora de veículos multinacional.<br>
+- 👋# 💫 About Me:
+- Atualmente eu estou cursando engenharia da computação e tecnólogo em cloud computing.<br>Trabalho numa montadora de veículos multinacional.<br>
+
 
 
 ## 🌐 Socials:
