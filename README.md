@@ -6,8 +6,6 @@
 ## Stats 🚀
 <br>![Rafaela GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelalino01&show_icons=true&theme=radical)</br>
 
-## Most Language ⭕
-<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelalino01&layout=pie)](https://github.com/anuraghazra/github-readme-stats) </br>
 
 ## Stacks 💻
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
