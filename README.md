@@ -3,7 +3,7 @@
 <br> Eu sou a Rafaela, bem vindos ao meu github.😎 </br>
 
 <br> Meu perfil profissonal</br>
-<br>[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](www.linkedin.com/in/rafaela-lino-071659239)</br>
+<br>[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](www.linkedin.com/rafaela-lino)</br>
 
 ## Stats 🚀
 <br>![Rafaela GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelalino01&show_icons=true&theme=radical)</br>
