@@ -7,8 +7,9 @@
 ---
 
 ## Stats 🚀
-<br>![Rafaela GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelalino01&show_icons=true&theme=radical)</br>
-<br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelalino01&layout=compact&theme=radical)</br>
+
+| ![Rafaela GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelalino01&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelalino01&layout=compact&theme=radical) |
+| --- | --- |
 
 ---
 
