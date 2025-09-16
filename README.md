@@ -8,7 +8,7 @@
 
 ## Stats 🚀
 
-| ![Rafaela GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelalino01&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelalino01&layout=compact&theme=radical) |
+| ![Rafaela GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelalino01&show_icons=true&theme=radical) |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelalino01&layout=compact&theme=radical&cache_seconds=0)|
 | --- | --- |
 
 ---
@@ -23,11 +23,14 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ---
 
 ## 🗄️ Bancos de Dados
 ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
