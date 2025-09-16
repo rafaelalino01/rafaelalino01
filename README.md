@@ -88,7 +88,7 @@ Sou a **Rafaela Lino**, estudante de Engenharia da Computação e estagiária de
 ---
 
 ## 🎯 Objetivo Profissional
-Atuar como **QA Engineer**, aplicando habilidades em testes manuais e automatizados, **CI/CD e melhoria contínua**, contribuindo para a entrega de produtos digitais de alta qualidade e inovando processos de software.
+Atuar como **QA Engineer e Desenvolvedora Full-Stack**, aplicando habilidades em testes manuais e automatizados, desenvolvimento de aplicações web, CI/CD e melhoria contínua de processos, contribuindo para a entrega de produtos digitais de alta qualidade, inovando soluções e processos de software.
 
 ---
 
