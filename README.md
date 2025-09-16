@@ -75,5 +75,5 @@ Sou a **Rafaela Lino**, estudante de Engenharia da Computação e estagiária de
 ---
 
 ## 🔗 Contato
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaela-lino)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaela-lino-071659239)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafalinno01@gmail.com)
