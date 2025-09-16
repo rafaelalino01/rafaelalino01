@@ -1,8 +1,12 @@
-## Hello World 👋
+Hello World 👋
 
-<br> Eu sou a Rafaela, bem-vindos ao meu GitHub. 😎 </br>
+Sou **Rafaela Lino**, estudante de Engenharia da Computação e estagiária de QA. Atualmente atuo com **testes manuais e automatizados**, aplicando boas práticas de qualidade de software e trabalhando no desenvolvimento de soluções eficientes para validação de sistemas.
 
-🎯 Atualmente sou **estagiária de QA**, focada em aprender e aplicar **testes manuais e automatizados**, com interesse em **automação, CI/CD e boas práticas de qualidade de software**.  
+💻 Minhas principais tecnologias e ferramentas: **TypeScript, Playwright, Cucumber, Python, Git/GitHub**.
+
+🎯 Tenho interesse em **automação de testes, CI/CD e melhoria contínua de processos**, buscando sempre aprender e aplicar novas tecnologias para garantir a entrega de produtos de alta qualidade.
+
+🔗 Aberta a oportunidades de aprendizado, colaborações e desafios na área de QA e desenvolvimento de software.
 
 ---
 
