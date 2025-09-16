@@ -1,6 +1,6 @@
 # Hello World 👋
 
-Sou **Rafaela Lino**, estudante de Engenharia da Computação e estagiária de QA, apaixonada por aprender e aplicar **testes manuais e automatizados**. Atualmente, aplico boas práticas de qualidade de software e desenvolvo soluções de automação para validar funcionalidades críticas em sistemas web.
+Sou a **Rafaela Lino**, estudante de Engenharia da Computação e estagiária de QA, apaixonada por aprender e aplicar **testes manuais e automatizados**. Atualmente, aplico boas práticas de qualidade de software e desenvolvo soluções de automação para validar funcionalidades críticas em sistemas web.
 
 💻 Minhas principais tecnologias e ferramentas incluem: **Python, TypeScript, Playwright, Cucumber, Selenium, Vue.js, Git/GitHub, CI/CD (Jenkins, GitHub Actions)**, entre outras.
 
@@ -92,5 +92,5 @@ Atuar como **QA Engineer**, aplicando habilidades em testes manuais e automatiza
 ---
 
 ## 📫 Contato
-- LinkedIn: [SeuLinkedIn](https://www.linkedin.com/in/seu-perfil/)
-- Email: seuemail@dominio.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaela-lino-071659239/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafalino01@gmailcom)
