@@ -1,18 +1,18 @@
-Hello World 👋
+# Hello World 👋
 
-Sou a **Rafaela Lino**, estudante de Engenharia da Computação e estagiária de QA. Atualmente atuo com **testes manuais e automatizados**, aplicando boas práticas de qualidade de software e trabalhando no desenvolvimento de soluções eficientes para validação de sistemas.
+Sou **Rafaela Lino**, estudante de Engenharia da Computação e estagiária de QA, apaixonada por aprender e aplicar **testes manuais e automatizados**. Atualmente, aplico boas práticas de qualidade de software e desenvolvo soluções de automação para validar funcionalidades críticas em sistemas web.
 
-💻 Minhas principais tecnologias e ferramentas: **TypeScript, Playwright, Cucumber, Python, Git/GitHub**.
+💻 Minhas principais tecnologias e ferramentas incluem: **Python, TypeScript, Playwright, Cucumber, Selenium, Vue.js, Git/GitHub, CI/CD (Jenkins, GitHub Actions)**, entre outras.
 
-🎯 Tenho interesse em **automação de testes, CI/CD e melhoria contínua de processos**, buscando sempre aprender e aplicar novas tecnologias para garantir a entrega de produtos de alta qualidade.
+🎯 Tenho interesse em atuar com **automação de testes, integração contínua e melhoria contínua de processos**, aplicando minhas habilidades para garantir a entrega de produtos de alta qualidade e impulsionando a inovação em QA.
 
-🔗 Aberta a oportunidades de aprendizado, colaborações e desafios na área de QA e desenvolvimento de software.
+🔗 Aberta a desafios, oportunidades de aprendizado e colaborações que me permitam crescer como profissional na área de QA e desenvolvimento de software.
 
 ---
 
 ## Stats 🚀
 
-| ![Rafaela GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelalino01&show_icons=true&theme=radical) |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelalino01&layout=compact&theme=radical&cache_seconds=0)|
+| ![Rafaela GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelalino01&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelalino01&layout=compact&theme=radical&cache_seconds=0) |
 | --- | --- |
 
 ---
@@ -29,10 +29,11 @@ Sou a **Rafaela Lino**, estudante de Engenharia da Computação e estagiária de
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
 ---
 
 ## 🗄️ Bancos de Dados
-![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -69,11 +70,27 @@ Sou a **Rafaela Lino**, estudante de Engenharia da Computação e estagiária de
 ### Gestão de Projetos / Testes
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-### Outras ferramentas úteis de QA
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+---
+
+## 🤖 Projetos em Destaque
+
+**Chatbot QA Assistant** – Python + Vue.js  
+> Desenvolvi um chatbot do zero para auxiliar minhas atividades e aprendizado em QA. Ele automatiza consultas, organiza informações sobre testes e simula fluxos de validação de software.  
+> - Backend: Python  
+> - Frontend: Vue.js  
+> - Funcionalidades: testes automatizados, respostas dinâmicas e interface interativa.  
+> - Benefício: aumenta a produtividade, organiza o aprendizado e aplica conceitos reais de QA.
+
+**Automação de Testes Web** – Playwright + Cucumber + TypeScript  
+> Criação de scripts automatizados para validação de funcionalidades críticas de sistemas web. Ajuda a detectar bugs rapidamente e documentar resultados de forma eficiente.
 
 ---
 
-## 🔗 Contato
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaela-lino-071659239)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafalinno01@gmail.com)
+## 🎯 Objetivo Profissional
+Atuar como **QA Engineer**, aplicando habilidades em testes manuais e automatizados, **CI/CD e melhoria contínua**, contribuindo para a entrega de produtos digitais de alta qualidade e inovando processos de software.
+
+---
+
+## 📫 Contato
+- LinkedIn: [SeuLinkedIn](https://www.linkedin.com/in/seu-perfil/)
+- Email: seuemail@dominio.com
