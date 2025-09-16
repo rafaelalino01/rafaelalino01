@@ -1,6 +1,6 @@
 Hello World 👋
 
-Sou **Rafaela Lino**, estudante de Engenharia da Computação e estagiária de QA. Atualmente atuo com **testes manuais e automatizados**, aplicando boas práticas de qualidade de software e trabalhando no desenvolvimento de soluções eficientes para validação de sistemas.
+Sou a **Rafaela Lino**, estudante de Engenharia da Computação e estagiária de QA. Atualmente atuo com **testes manuais e automatizados**, aplicando boas práticas de qualidade de software e trabalhando no desenvolvimento de soluções eficientes para validação de sistemas.
 
 💻 Minhas principais tecnologias e ferramentas: **TypeScript, Playwright, Cucumber, Python, Git/GitHub**.
 
