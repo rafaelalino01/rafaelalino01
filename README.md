@@ -1,12 +1,13 @@
-# Hello World 👋
+Hello World 👋
 
-Sou a **Rafaela Lino**, estudante de Engenharia da Computação e estagiária de QA, apaixonada por aprender e aplicar **testes manuais e automatizados**. Atualmente, aplico boas práticas de qualidade de software e desenvolvo soluções de automação para validar funcionalidades críticas em sistemas web.
+Sou **Rafaela Lino**, estudante de Engenharia da Computação e estagiária de QA, apaixonada por tecnologia e desenvolvimento de software. Possuo experiência em **testes manuais e automatizados**, aplicando boas práticas de qualidade, e também em **desenvolvimento full-stack**, com projetos que integram **Python no backend** e **Vue.js no frontend**, incluindo meu próprio chatbot para auxiliar no aprendizado e validação de sistemas.
 
-💻 Minhas principais tecnologias e ferramentas incluem: **Python, TypeScript, Playwright, Cucumber, Selenium, Vue.js, Git/GitHub, CI/CD (Jenkins, GitHub Actions)**, entre outras.
+💻 Minhas principais tecnologias e ferramentas incluem: **Python, TypeScript, Playwright, Cucumber, Selenium, Vue.js, JavaScript, Node.js, Git/GitHub, CI/CD (Jenkins, GitHub Actions)**, entre outras.
 
-🎯 Tenho interesse em atuar com **automação de testes, integração contínua e melhoria contínua de processos**, aplicando minhas habilidades para garantir a entrega de produtos de alta qualidade e impulsionando a inovação em QA.
+🎯 Tenho interesse em atuar tanto como **QA Engineer** quanto como **Desenvolvedora Full-stack**, aplicando meus conhecimentos em automação, integração contínua e desenvolvimento de soluções inovadoras, garantindo qualidade, escalabilidade e eficiência nos projetos.
 
-🔗 Aberta a desafios, oportunidades de aprendizado e colaborações que me permitam crescer como profissional na área de QA e desenvolvimento de software.
+🔗 Aberta a desafios, oportunidades de aprendizado e colaborações que me permitam crescer como profissional na área de **QA e desenvolvimento de software**.
+
 
 ---
 
