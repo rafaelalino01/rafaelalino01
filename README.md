@@ -39,10 +39,13 @@ Validação de contratos, automação E2E e testes de carga/estresse.
 > - **Tecnologias:** Node.js, TypeScript, PostgreSQL e Vite.
 > - **Foco:** Arquitetura escalável, automação de fluxos financeiros e dashboard analítico.
 
-**QA ASSISTANT CHATBOT**
-> Assistente inteligente focado em produtividade para times de QA.
-> - **Tecnologias:** Python (Backend) e Vue.js (Frontend).
-> - **Funcionalidade:** Centralização de documentação de testes e simulação de fluxos de validação.
+**QA ASSISTANT CHATBOT (AI-Powered)**
+>Assistente inteligente desenvolvido para otimizar o ciclo de vida de testes através de IA Generativa.
+**Backend:** Python e Google Gemini API.
+**Frontend:** Vue.js e Tailwind CSS.
+**Funcionalidades GenAI:** >   - Geração Automática de Cenários: Transforma requisitos (User Stories) em Gherkin/Cucumber instantaneamente.
+**Análise de Bugs:** Analisa logs de erro e sugere correções no código ou nos scripts de automação.
+**Predictive QA:** Auxilia na priorização de testes com base no histórico de falhas.
 
 ---
 
