@@ -40,13 +40,13 @@ Validação de contratos, automação E2E e testes de carga/estresse.
 > - **Foco:** Arquitetura escalável, automação de fluxos financeiros e dashboard analítico.
 
 **QA ASSISTANT CHATBOT (AI-Powered)**
->Assistente inteligente desenvolvido para otimizar o ciclo de vida de testes através de IA Generativa.
-> -**Backend:** Python e Google Gemini API.
-> -**Frontend:** Vue.js e Tailwind CSS.
-> -**Funcionalidades GenAI:** >   - Geração Automática de Cenários: Transforma requisitos (User Stories) em Gherkin/Cucumber instantaneamente.
-> -**Análise de Bugs:** Analisa logs de erro e sugere correções no código ou nos scripts de automação.
-> -**Predictive QA:** Auxilia na priorização de testes com base no histórico de falhas.
-
+> Assistente inteligente desenvolvido para otimizar o ciclo de vida de testes através de IA Generativa.
+> - **Backend:** Python e Google Gemini API.
+> - **Frontend:** Vue.js e Tailwind CSS.
+> - **Funcionalidades GenAI:**
+>   - **Geração Automática de Cenários:** Transforma requisitos (User Stories) em Gherkin/Cucumber instantaneamente.
+>   - **Análise de Bugs:** Analisa logs de erro e sugere correções no código ou nos scripts de automação.
+>   - **Predictive QA:** Auxilia na priorização de testes com base no histórico de falhas.
 ---
 
 ## 📈 Stats & Impact
